@@ -16,14 +16,12 @@ ftbuniversity.leavespawn.task2=Sprint 100 blocks
 ftbuniversity.worldtp.title=Choose a World Generator!
 ftbuniversity.worldtp.subtitle=Decide what planet you want to live on
 ftbuniversity.worldtp.desc1=FTB University uses the mod &eAdvanced Rocketry&r to add other planets. Several of which are &eOpen Terrain Generator presets&r, which are essentially &6different world generators&r.
-ftbuniversity.worldtp.desc2=We've decided, why choose one when you can have them all? This quest will allow you to &6teleport between these different planets&r. The first one is &6free&r, but each additional teleport will cost &65 levels of experience&r!
+ftbuniversity.worldtp.desc2=We've decided, why choose one when you can have them all? This quest's rewards give you the materials to &6make a portal to any of the other dimensions&r! They work exactly like Nether portals, except teleport you to the OTG dimensions instead.
 ftbuniversity.worldtp.desc3=&6The quest directly above this&r has a list of presets, and what makes them special.
 ftbuniversity.worldtp.desc4=&cA warning&r: OTG presets are fairly resource-intensive to generate, so you may want to &6pregenerate&r them using the OTG menu (see controls).
 ftbuniversity.worldtp.desc5=&cA second warning&r: Teleporting into ungenerated chunks causes a surprising amount of lag, so be wary of that.
 ftbuniversity.worldtp.desc6=&cA third warning&r: You &ccannot make Nether portals on other planets&r. Unfortunately, this is a technical limitation, so you'll have to make at least a small base on Earth that has a portal. Certain &cstructures and biomes from other mods will also not generate&r.
 ftbuniversity.worldtp.reward=60 seconds of immortality, in case you teleport into a block
-
-ftbuniversity.worldtp.rewards=Planets
 ftbuniversity.worldtp.reward1=Earth
 ftbuniversity.worldtp.reward2=Biome Bundle
 ftbuniversity.worldtp.reward3=Biome Bundle o' Plenty
@@ -38,15 +36,13 @@ ftbuniversity.worldtpinfo.desc3=• &eBiome Bundle o' Plenty&r is the same, but 
 ftbuniversity.worldtpinfo.desc4=• &eVanilla Vistas&r, which "&6overhauls terrain generation and biome placement using only vanilla biomes&r." Essentially, it makes regular biomes look better, as well as having a high amount of verticality.
 ftbuniversity.worldtpinfo.desc5=• &eVanilla Vistas Amplified&r is the same, but even &6taller&r.
 
-ftbuniversity.worldtp2.title=Multipass
-ftbuniversity.worldtp2.subtitle=Buy another teleport pass
-ftbuniversity.worldtp2.desc=Spend &b5 levels of experience&r to &6teleport again&r.
-
 ftbuniversity.prefab1.title=What's an Early-Game?
 ftbuniversity.prefab1.subtitle=Enjoy your new furnishings
 ftbuniversity.prefab1.desc1=Since this pack is mostly about complex mods, why bother with the early-game grind?
-ftbuniversity.prefab1.desc2=Simply use this item on the ground anywhere and &6it will build you up a nice house&r to start out of.
-ftbuniversity.prefab1.desc3=There are six house styles you can choose from! Some of them allow you to change the blocks, size, etc.
+ftbuniversity.prefab1.desc2=Completely for free, we'll give you a choice of either a small &bStarting House&r or a larger &bModerate House&r. Simply use it on the ground to open a GUI, where you can &6decide the style and size&r of the house, then &6it'll instantly appear right there&r.
+ftbuniversity.prefab1.desc3=The Starter Houses are &6much smaller and more basic&r, while the Moderate Houses are &6much larger and more feature-filled&r.
+ftbuniversity.prefab1.desc4=Both options have a Bed, Crafting Bench, Furnace, empty farmland, and a mineshaft entrance.
+ftbuniversity.prefab1.rewards=Prefab houses
 
 ftbuniversity.prefab2.title=Bonus Buildings
 ftbuniversity.prefab2.subtitle=Make your own Prefab
@@ -909,10 +905,24 @@ ftbuniversity.certus.desc2=It comes in two types, normal and charged. &bCharged 
 ftbuniversity.certus.desc3=Mekanism also adds a way to craft it, but that's on Mekanism's side, not AE2's.
 ftbuniversity.certus.reward=Certus Quartz
 
+ftbuniversity.grindstone.title=Manual Grinding
+ftbuniversity.grindstone.subtitle=Make a Quartz Grindstone
+ftbuniversity.grindstone.desc1=The &bQuartz Grindstone&r is the &6earliest form of ore duplication&r in most packs it's in.
+ftbuniversity.grindstone.desc2=Simply insert the items you wish to crush into the left slots, place a &bCrank&r on top of the block, and then hold right-click on the Crank.
+ftbuniversity.grindstone.desc3=This will slowly grind the blocks, turning them to dust. If there are no inputs, this has a chance of destroying the Crank.
+
 ftbuniversity.fluix.title=Fluix Buddies
 ftbuniversity.fluix.subtitle=Get some Fluix Crystals
 ftbuniversity.fluix.desc1=&bFluix Crystals&r are another resource, but they don't generate naturally.
 ftbuniversity.fluix.desc2=Instead, &6throw some Charged Certus Quartz, Nether Quartz, and Redstone dust into water&r and wait a second.
+
+ftbuniversity.ae2charger.title=Proprietary Hardware
+ftbuniversity.ae2charger.subtitle=Make a Charger
+ftbuniversity.ae2charger.desc1=The &bCharger&r accepts either RF/AE through its top/bottom sides, and uses it to &6charge a very small number of items&r.
+ftbuniversity.ae2charger.desc2=You can only charge certain items (the second task being a list of those); &6it does not charge every item that holds RF&r.
+ftbuniversity.ae2charger.desc3=Right-click the Charger while holding the item to insert it, and then right-click again to remove it.
+ftbuniversity.ae2charger.desc4=Fun fact: you can charge the Charger with a Crank!
+ftbuniversity.ae2charger.task=Charger-capable items
 
 ftbuniversity.purecrystals.title=Purity
 ftbuniversity.purecrystals.subtitle=Get some Pure Crystals
@@ -1035,6 +1045,11 @@ ftbuniversity.mechest.desc1=The &bME Chest&r is the most simple way to use AE2 t
 ftbuniversity.mechest.desc2=Click any side other than the top to insert a &6Storage Cell&r, and click the top to access items inside it.
 ftbuniversity.mechest.desc3=The ME Chest is capable of &6working independently&r of an ME Controller, as it can accept RF/EU directly. However, if connected to a network, the network will also be able to access its contents.
 
+ftbuniversity.portablecell.title=Digital Backpack!
+ftbuniversity.portablecell.subtitle=Make a Portable Cell
+ftbuniversity.portablecell.desc1=The &bPortable Cell&r works like a backpack, but using AE2 logic. It requires energy to work.
+ftbuniversity.portablecell.desc2=It also stores about half as much as a 1k Storage Cell.
+
 ftbuniversity.meterminal.title=Storage Access
 ftbuniversity.meterminal.subtitle=Make an ME Terminal
 ftbuniversity.meterminal.desc1=The &bME Terminal&r is the first of many devices, and allows you to &6access all items in the ME network&r (we'll get to storing items in a bit).
@@ -1119,8 +1134,9 @@ ftbuniversity.mesecurity.title=That Thing That Wireless Terminals Need
 ftbuniversity.mesecurity.subtitle=Make an ME Security Terminal
 ftbuniversity.mesecurity.desc1=The &bME Security Terminal&r allows you to configure what people are allowed to do with your ME network. Ownership of the network is decided by who places the Security Terminal.
 ftbuniversity.mesecurity.desc2=A &6Biometric Card&r can be inserted into the bottom left slot, then permissions can be toggled with the buttons on the right. Put the Biometric Card into one of the top slots to apply it.
-ftbuniversity.mesecurity.desc3=A blank Biometric Card means "anyone but the owner." A player can sneak right-click the Biometric Card to set it to themselves.
-ftbuniversity.mesecurity.desc4=And now, the only reason anyone ever actually makes a Security Terminal: you can &6insert a Wireless Terminal&r into the top right slot to &6bind it to that ME network&r.
+ftbuniversity.mesecurity.desc3=&6The owner always has all permissions, so they cannot have a Biometric Card.&r
+ftbuniversity.mesecurity.desc4=A blank Biometric Card means "anyone but the owner." A player can sneak right-click the Biometric Card to set it to themselves.
+ftbuniversity.mesecurity.desc5=And now, the only reason anyone ever actually makes a Security Terminal: you can &6insert a Wireless Terminal&r into the top right slot to &6bind it to that ME network&r.
 
 ftbuniversity.meaccesspoint.subtitle=Make an ME Wireless Access Point
 ftbuniversity.meaccesspoint.desc1=An &bME Wireless Access Point&r allows players &6within 16 blocks&r of itself to access the ME system using Wireless Terminals.
@@ -1358,7 +1374,7 @@ ftbuniversity.forestrymod.title=Forestry
 
 ftbuniversity.forestrybook.subtitle=Get the Forester's Manual
 ftbuniversity.forestrybook.desc1=The &bForester's Manual&r is a fairly comprehensive guide to the mod.
-ftbuniversity.forestrybook.desc2=Even though it explains pretty much everything, we are still opligated to make quests.
+ftbuniversity.forestrybook.desc2=Even though it explains pretty much everything, we are still obligated to make quests.
 
 ftbuniversity.clockworkengine.subtitle=Make a Clockwork Engine
 ftbuniversity.clockworkengine.desc1=The &bClockwork Engine&r can be wound by holding right-click on it, then will &6generate RF when released&r. The longer you use it, the longer it works. If you hold it too long, &cyou will take damage&r.
@@ -1549,7 +1565,7 @@ ftbuniversity.alveary2.desc6=• The &bAlveary Stabiliser&r will allow Ignoble S
 ftbuniversity.alveary2.desc7=• The &bAlveary Sieve&r will intercept Pollen that would have pollinated nearby trees, and gives it to you in item form. This can be clicked on another species of leaves to force them to cross-pollinate. To work it needs Woven Silk, which gets used up when Pollen is removed.
 ftbuniversity.alveary2.task=Alveary Upgrades
 
-ftbuniversity.forestrytrees.title=Aboriculture
+ftbuniversity.forestrytrees.title=Arboriculture
 ftbuniversity.forestrytrees.subtitle=Start tree breeding
 ftbuniversity.forestrytrees.desc1=Like bee breeding, Forestry also adds &btree breeding&r. New trees means new textures for your base, as well as new &6fruits&r to eat. They can also be bred to give more fruit and grow them faster.
 ftbuniversity.forestrytrees.desc2=Leaves with ripe fruits can be right-clicked to harvest. You can also bonemeal fruit leaves.
@@ -1742,6 +1758,7 @@ ftbuniversity.exu2muffler.desc2=Shockingly useful; put one near your Nether Port
 ftbuniversity.exu2lasso.subtitle=Make the Lassos
 ftbuniversity.exu2lasso.desc1=The &bGolden Lasso&r can be right-clicked on a &6passive mob to pick it up&r, and can be placed down later.
 ftbuniversity.exu2lasso.desc2=The &bCursed Lasso&r does the same, but works on &6hostile mobs&r.
+ftbuniversity.exu2lasso.desc3=Both have a chance to &cnot actually pick up the mob&r, even though they might look like they did. 
 
 ftbuniversity.exu2enchanter.subtitle=Make an Enchanter
 ftbuniversity.exu2enchanter.desc1=The &bEnchanter&r uses RF and Lapis to enchant items, if it has &615 Bookshelves&r or &66 Magical Wood&r nearby.
@@ -2053,7 +2070,7 @@ ftbuniversity.orewashingplant.desc2=Using 1,000mB of Water, it will wash Crushed
 ftbuniversity.ic2pump.title=Pump It Up!
 ftbuniversity.ic2pump.subtitle=Make a Pump
 ftbuniversity.ic2pump.desc1=The &bPump&r uses &6LV EU&r to pick up fluids that it's facing (on the grate side, rotate with a Wrench).
-ftbuniversity.ic2pump.desc2=It does will also pump fluids adjacent to the block it's facing. If you want it to pump &6infinite water&r, it must be a &65x5&r pool.
+ftbuniversity.ic2pump.desc2=It will also pump fluids adjacent to the block it's facing. If you want it to pump &6infinite water&r, it must be a &65x5&r pool.
 
 ftbuniversity.ic2pipes.title=Sewer Level
 ftbuniversity.ic2pipes.subtitle=Make IC2 Pipes
@@ -2745,7 +2762,7 @@ ftbuniversity.iegardencloche.title=Arguably OP Farm
 ftbuniversity.iegardencloche.subtitle=Make a Garden Cloche
 ftbuniversity.iegardencloche.desc1=The &bGarden Cloche&r will &6grow and harvest crops&r within itself. It's very fast and honestly weirdly cheap, for how good it is.
 ftbuniversity.iegardencloche.desc2=It requires a &6steady supply of Water and RF&r. You can also give it fertilizer in the bottom left slot.
-ftbuniversity.iegardencloche.desc3=Insert a seed into the top center slot, and its required soil underneath. &6Pretty nuch every crop is compatible&r, even mushrooms, Ender Lilys, and Red Orchids!
+ftbuniversity.iegardencloche.desc3=Insert a seed into the top center slot, and its required soil underneath. &6Pretty much every crop is compatible&r, even mushrooms, Ender Lilys, and Red Orchids!
 ftbuniversity.iegardencloche.desc4=The harvested crop will be pushed out of the &6front-center&r.
 ftbuniversity.iegardencloche.desc5=Water and fertilizer can be input through the &6bottom&r, &6bottom-front&r, or &6bottom-back&r.
 ftbuniversity.iegardencloche.desc6=RF can be input through the &6top&r, &6bottom-left&r, or &6bottom-right&r.
@@ -3850,11 +3867,12 @@ ftbuniversity.solneut.desc=The &bSolar Neutron Activator&r uses solar energy to 
 ftbuniversity.mekreactor.title=Disco Reactor
 ftbuniversity.mekreactor.subtitle=Construct a Fusion Reactor
 ftbuniversity.mekreactor.desc1=The &bFusion Reactor&r is a rather complex multiblock, capable of generating extremely high amounts of RF.
-ftbuniversity.mekreactor.desc2=To begin with, make a 5x5 star of &bReactor Frames&r (that is, a 3x3 square with another going out the middle of each side).
-ftbuniversity.mekreactor.desc3=On the next layer, make a hollow 5x5 square without corners, again using Reactor Frames.
-ftbuniversity.mekreactor.desc4=On the third layer, make a hollow 5x5 square &owith&r corners. 3 of the non-corner blocks must be &bReactor Ports&r, and one must be a &bLaser Focus Matrix&r.
-ftbuniversity.mekreactor.desc5=The fourth layer should be the same as the second, and the fifth and final layer should be the same as the first, but with a &bReactor Controller&r in the center.
-ftbuniversity.mekreactor.desc6=Any Frame that isn't on an edge can be replaced with &6Reactor Glass&r.
+ftbuniversity.mekreactor.desc2=If you want to just &6skip the building process&r, just use the &bMekanism Reactor Blueprint&r item that this quest gives. It will take the items from your inventory and use them to build the Reactor. You will have to place the 3 Reactor Ports yourself, however.
+ftbuniversity.mekreactor.desc3=To begin with, make a 5x5 star of &bReactor Frames&r (that is, a 3x3 square with another going out the middle of each side).
+ftbuniversity.mekreactor.desc4=On the next layer, make a hollow 5x5 square without corners, again using Reactor Frames.
+ftbuniversity.mekreactor.desc5=On the third layer, make a hollow 5x5 square &owith&r corners. 3 of the non-corner blocks must be &bReactor Ports&r, and one must be a &bLaser Focus Matrix&r.
+ftbuniversity.mekreactor.desc6=The fourth layer should be the same as the second, and the fifth and final layer should be the same as the first, but with a &bReactor Controller&r in the center.
+ftbuniversity.mekreactor.desc7=Any Frame that isn't on an edge can be replaced with &6Reactor Glass&r.
 ftbuniversity.mekreactor.task=74x Reactor Frame
 
 ftbuniversity.mekreactor2.title=Get a Snack, This Quest is All Reading
@@ -4513,7 +4531,7 @@ ftbuniversity.moon.title=To the Moon
 ftbuniversity.moon.subtitle=Visit the Moon
 ftbuniversity.moon.desc1=The only satellite naturally orbiting the Earth is &ethe Moon&r.
 ftbuniversity.moon.desc2=There's... not really much to do here. The &6gravity is lower&r, and you &6can't breathe&r, and that's basically it. The moon &odoes&r have &6a lot more Dilithium Ore&r, however!
-ftbuniversity.moon.desc3=There's &cno dungeons&r or anything. However, there &ois&r a nice secret at x=67 z=2347!
+ftbuniversity.moon.desc3=There's &cno dungeons&r or anything. However, there &ois&r a nice secret at x=2347 z=67!
 ftbuniversity.moon.desc4=To get back home, change your Rocket's destination back to Earth, jump in, and take off again.
 ftbuniversity.moon.task=Visit Dimension: &dLuna&r
 
@@ -4860,7 +4878,7 @@ ftbuniversity.endoflame.desc=The &bEndoflame&r generates Mana using any burnable
 ftbuniversity.autoendo.title=Auto Endo
 ftbuniversity.autoendo.subtitle=Automate the Endoflame
 ftbuniversity.autoendo.desc1=The Endoflame is probably the simplest flower, and the &beasiest to automate&r.
-ftbuniversity.autoendo.desc2=Place a Wooden Pressure Plate nearby, invert the signal, then connect that to a Hopper feeding burnables into an &bOpen Crate&r directly above the Pressure Plate.
+ftbuniversity.autoendo.desc2=Place a Wooden Pressure Plate nearby, then connect that to a Hopper feeding burnables into an &bOpen Crate&r directly above the Pressure Plate.
 ftbuniversity.autoendo.desc3=Any time an item on the pressure plate is removed (ie, burned by the Endoflame), the signal to the Hopper will be cut off, which will allow it to drop more fuel.
 
 ftbuniversity.entropinnyum.title=I Have One Question, and One Question Only: &cEXPLOSIONS?!&r
@@ -6327,9 +6345,16 @@ ftbuniversity.cloning.desc2=Use an &bAdvanced Scraper&r on a mob, then put it in
 ###All Mods
 ftbuniversity.usefulthings.title=Useful Things
 
+ftbuniversity.usefulthingsquest.title=What This Chapter Is
+ftbuniversity.usefulthingsquest.subtitle=Seriously, you should be using this chapter more
+ftbuniversity.usefulthingsquest.desc1=This chapter is fairly simple. &bEvery quest has a list of everything in the pack of a specific "type."&r
+ftbuniversity.usefulthingsquest.desc2=By "type," I mean like, if you're trying to find something that lets you fly, there's a quest for that. If you're looking for something that charges things in your inventory, there's a quest for &othat&r. And so on.
+ftbuniversity.usefulthingsquest.desc3=This chapter is kind of obscure, since none of the quests give notifications. This is the exception, which is also why it has a reward. Otherwise, absolutely nobody would ever see that it exists.
+
 ftbuniversity.spawners.title=Mob Spawners
 ftbuniversity.spawners.subtitle=Make something that spawns mobs
 ftbuniversity.spawners.desc=All of these items can &bspawn mobs&r in some way.
+ftbuniversity.spawners.rewards=Spawn Eggs
 
 ftbuniversity.mobmovers.title=Mob Movers
 ftbuniversity.mobmovers.subtitle=Make something that moves mobs
@@ -6338,6 +6363,7 @@ ftbuniversity.mobmovers.desc=All of these items can &bmove mobs&r in some way.
 ftbuniversity.killers.title=Mob Killers
 ftbuniversity.killers.subtitle=Make something that kills mobs
 ftbuniversity.killers.desc=All of these items can &bkill mobs&r.
+ftbuniversity.killers.rewards=Murder Enchants
 
 ftbuniversity.rfgen.title=RF Generators
 ftbuniversity.rfgen.subtitle=Make an RF generator
@@ -6382,6 +6408,19 @@ ftbuniversity.flight.task=Flight items
 ftbuniversity.quarries.title=Quarries
 ftbuniversity.quarries.subtitle=Make any Quarry
 ftbuniversity.quarries.desc=All of these machines use energy to &bmine or generate ores&r.
+ftbuniversity.quarries.rewards=Mining Enchants
+
+ftbuniversity.smelters.title=Smelters
+ftbuniversity.smelters.subtitle=Make anything that smelts
+ftbuniversity.smelters.desc=All of these machines &bsmelt items&r.
+
+ftbuniversity.oreprocessors.title=Ore Processors
+ftbuniversity.oreprocessors.subtitle=Make something that processes ores
+ftbuniversity.oreprocessors.desc=All of these machines &bprocess ores&r.
+
+ftbuniversity.playerteleporters.title=Player Teleporters
+ftbuniversity.playerteleporters.subtitle=Make something that teleports players
+ftbuniversity.playerteleporters.desc=All of these machines &bteleport players&r.
 
 ###Misc2
 ftbuniversity.miscmisc.title=Misc-er
@@ -6626,14 +6665,6 @@ ftbuniversity.craftcalc2.desc3=Go into the new recipe screen, click Add Label, g
 ftbuniversity.craftcalc2.desc4=Then in the actual item recipe that you want, instead of putting those 14 input labels, &6put the Placeholder there instead&r.
 ftbuniversity.craftcalc2.desc5=Placeholders are fairly tedious to make, so I recommend &6bookmarking&r (hit A while hovering over) all the items in the main recipe, then removing them as they're added to the placeholder's recipe.
 
-ftbuniversity.somnia.title=Perchance to Dream
-ftbuniversity.somnia.subtitle=Learn about Somnia Awoken
-ftbuniversity.somnia.desc1=&eSomnia Awoken&r is a mod that changes how sleeping works. Instead of basically skipping to day time, it &6speeds up time while you sleep&r.
-ftbuniversity.somnia.desc2=Additionally, instead of just sleeping at night, being awake builds up &6fatigue&r, which is displayed in the bottom right corner. We've set it to only show if it's too low to sleep.
-ftbuniversity.somnia.desc3=You cannot sleep while you have under 20 fatigue. Normally, having over 70 fatigue starts to give you side effects, but we've disabled that to be as unobtrusive as possible.
-ftbuniversity.somnia.desc4=While sleeping, the top of the screen will show how much faster the world is moving, how much longer before you wake up (though you can force yourself to wake up whenever), and the current time of day.
-ftbuniversity.somnia.desc5=If you right-click a Bed with a &bClock&r, you can &6set the time of day you want to wake up at&r.
-
 ftbuniversity.timeinabottle.subtitle=Make Time in a Bottle
 ftbuniversity.timeinabottle.desc1=&bTime in a Bottle&r is used to &6tick-accelerate blocks&r, speeding them up by a massive amount.
 ftbuniversity.timeinabottle.desc2=Using the Bottle on a block &6spends time&r, which is passively collected while the Bottle is in your inventory.
@@ -6682,6 +6713,14 @@ ftbuniversity.spectreenergy.desc1=RF that is piped into the &bSpectre Energy Inj
 ftbuniversity.spectreenergy.desc2=&bSpectre Chargers&r will use RF from the player's buffer to charge items in their inventory. &bSpectre Coils&r do the same, but charge the block they are placed on.
 ftbuniversity.spectreenergy.task1=Spectre Chargers
 ftbuniversity.spectreenergy.task2=Spectre Coils
+
+ftbuniversity.neato.title=Neato Stuff
+ftbuniversity.neato.subtitle=Buy a random interesting item that isn't mentioned elsewhere
+ftbuniversity.neato.desc1=Mods add a lot of cool stuff. So much, that we can't really have a quest for every individual item.
+ftbuniversity.neato.desc2=So, this quest allows you to spend some experience in order to &bbuy a random item&r from a list of things we think are really cool, but not enough to have their own quest.
+ftbuniversity.neato.desc3=This quest is repeatable, and can be done as many times as you can afford.
+ftbuniversity.neato.rewards=Neato
+ftbuniversity.neato.reward_divining=Divining Rods
 
 ##Creative
 ftbuniversity.creativechap.title=Endgame
@@ -6900,3 +6939,9 @@ entity.ItemFrame.name=Item Frame
 tile.gem_block.amethyst_block.name=Block of Ender Amethyst
 key.category.movement=Hooked
 tile.blocks.integrateddynamics.creative_energy_battery.info.auto_supply=
+entity.companion_orn.name=Companion Orb
+entity.companion_orb_a.name=Companion Orb
+entity.faerie.name=Faerie
+entity.rad_flame.name=Rad Flame
+entity.will_o_wisp.name=Will o' the Wisp
+item.lumen.affection_core.name=Affection Core
