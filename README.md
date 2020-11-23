@@ -1,7 +1,4 @@
 # FTB University
 
-Issues with the modpack as a whole should go in the [Issues page](https://github.com/FTBTeam/FTB-University/issues).
+이 한국어 번역은 FTB University의 번역이며 University에 포함되어있는 각종 모드들의 한국어 번역을 다른 프로젝트에서 진행하게될 예정입니다.
 
-Translators can submit Pull Requests [here](https://github.com/FTBTeam/FTB-University/pulls).
-
-To translate the quests, make a new lang file in the format of your language (Spanish would be `es_es.lang`, for instance), copy the contents of en_us.lang, and translate it to language. Lang files are in `/resources/ftbuniversity/lang/`
