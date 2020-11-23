@@ -2,176 +2,176 @@
 
 #Quest stuff
 ##Getting Started
-ftbuniversity.gettingstarted.title=Getting Started, Again!
+ftbuniversity.gettingstarted.title=다시, 시작해볼까요?
 
-ftbuniversity.leavespawn.title=Welcome to &dFTB University&7!
-ftbuniversity.leavespawn.subtitle=Walk a suitable distance from spawn
-ftbuniversity.leavespawn.desc1=&dFTB University&r is a modpack dedicated to teaching semi-experienced players the more complex mods and mechanics of modern modded Minecraft.
-ftbuniversity.leavespawn.desc2=University assumes you already have some basic knowledge. If you haven't, we recommend playing &dFTB Academy&r first.
-ftbuniversity.leavespawn.desc3=To start out with, just walk some distance from spawn. I won't ask you to punch down 16 trees or anything, just &bwalk (or run) about 100 blocks from wherever you spawned&r.
-ftbuniversity.leavespawn.desc4=You can pin this quest to see how far you've gone.
-ftbuniversity.leavespawn.task1=Walk 100 blocks
-ftbuniversity.leavespawn.task2=Sprint 100 blocks
+ftbuniversity.leavespawn.title=&dFTB University&r에 오신 것을 환영합니다!
+ftbuniversity.leavespawn.subtitle=스폰으로부터 적당한 거리를 걸어가세요
+ftbuniversity.leavespawn.desc1=&dFTB University&r는 모드팩 준-전문가 유저에게 더 복잡한 모드와 대세 모드들의 매커니즘을 가르쳐 주기 위한 모드팩입니다.
+ftbuniversity.leavespawn.desc2=이 모드팩은 당신이 모드에 대한 기초 지식이 있다는 가정 하에 만들어졌습니다. 만약 기초지식이 없으시다면 &dFTB Academy&r모드팩을 먼저 플레이하시는 걸 추천드립니다.
+ftbuniversity.leavespawn.desc3=본격적으로 시작하기에 앞서, 스폰 지점 주위에서 산책을 해볼까요? 나무를 캐라고 하진 않을게요. 그냥 스폰지점에서부터 100블록까지 걷거나 뛰어보세요.
+ftbuniversity.leavespawn.desc4=얼마나 멀리 갔는지 알기 위해 이 퀘스트를 고정해둘 수 있습니다.
+ftbuniversity.leavespawn.task1=100블록을 걸으세요
+ftbuniversity.leavespawn.task2=100블록을 달리세요
 
-ftbuniversity.worldtp.title=Choose a World Generator!
-ftbuniversity.worldtp.subtitle=Decide what planet you want to live on
-ftbuniversity.worldtp.desc1=FTB University uses the mod &eAdvanced Rocketry&r to add other planets. Several of which are &eOpen Terrain Generator presets&r, which are essentially &6different world generators&r.
-ftbuniversity.worldtp.desc2=We've decided, why choose one when you can have them all? This quest's rewards give you the materials to &6make a portal to any of the other dimensions&r! They work exactly like Nether portals, except teleport you to the OTG dimensions instead.
-ftbuniversity.worldtp.desc3=&6The quest directly above this&r has a list of presets, and what makes them special.
-ftbuniversity.worldtp.desc4=&cA warning&r: OTG presets are fairly resource-intensive to generate, so you may want to &6pregenerate&r them using the OTG menu (see controls).
-ftbuniversity.worldtp.desc5=&cA second warning&r: Teleporting into ungenerated chunks causes a surprising amount of lag, so be wary of that.
-ftbuniversity.worldtp.desc6=&cA third warning&r: You &ccannot make Nether portals on other planets&r. Unfortunately, this is a technical limitation, so you'll have to make at least a small base on Earth that has a portal. Certain &cstructures and biomes from other mods will also not generate&r.
-ftbuniversity.worldtp.reward=60 seconds of immortality, in case you teleport into a block
-ftbuniversity.worldtp.reward1=Earth
-ftbuniversity.worldtp.reward2=Biome Bundle
-ftbuniversity.worldtp.reward3=Biome Bundle o' Plenty
-ftbuniversity.worldtp.reward4=Vanilla Vistas
-ftbuniversity.worldtp.reward5=Vanilla Vistas Amplified
+ftbuniversity.worldtp.title=세계 유형을 고르세요!
+ftbuniversity.worldtp.subtitle=당신이 살고 싶은 행성을 결정하세요
+ftbuniversity.worldtp.desc1=FTB University모드팩은 다른 행성들을 추가하기 위해 &eAdvanced Rocketry&r모드를 사용하고 있습니다. 개중 몇몇은 &eOpen Terrain Generator의 프리셋&r(이하, OTG) 이며, 본질적으로 전혀 다른 세계 유형입니다.
+ftbuniversity.worldtp.desc2=우린 생각했어요, 전부 가질 수 있는데 왜 하나만 선택해야하지? 이 퀘스트는 보상으로 &6다른 차원으로 이동하는 포탈&r을 만들 수 있는 재료를 줍니다! 이는 OTG 차원으로 이동한다는 점만 빼면 네더 포탈과 동일하게 작동합니다.
+ftbuniversity.worldtp.desc3=&6바로 위의 퀘스트&r에는 텔레포트 가능한 월드 유형 목록이 있고,  해당 월드 유형의 특징을 알 수 있습니다.
+ftbuniversity.worldtp.desc4=&c경고&r: OTG 프리셋 설정은 상당한 고사양 작업이므로 OTG 메뉴를 사용하여 &6사전 생성&r해야 할 수 있습니다(컨트롤 참조).
+ftbuniversity.worldtp.desc5=&c두 번째 경고&r: 생성되지 않은 청크로 순간이동하는 것은 많은 지연을 일으킵니다. 되도록 하지 마세요.
+ftbuniversity.worldtp.desc6=&cA 세 번째 경고&r: 다른 행성에 네더 포탈을 만들 수 없습니다. 아쉽게도 이것은 기술적인 한계이기 때문에 포탈을 만들 수 있는 지구(오버월드)에 기지를 만들어야 할 겁니다. 다른 모드의 특정 &c구조물과 생물&r 또한 생성되지 않습니다.
+ftbuniversity.worldtp.reward=60초 동안 무적시간이 주어집니다. 블록 안에 끼일 경우에 대비해서요
+ftbuniversity.worldtp.reward1=지구
+ftbuniversity.worldtp.reward2=바이옴 번들
+ftbuniversity.worldtp.reward3=바이옴 번들 오 플렌티
+ftbuniversity.worldtp.reward4=바닐라 경관
+ftbuniversity.worldtp.reward5=증폭맵 바닐라 경관
 
-ftbuniversity.worldtpinfo.title=Oh the Places You'll Go!
-ftbuniversity.worldtpinfo.subtitle=Learn about the different presets
-ftbuniversity.worldtpinfo.desc1=The available presets are:
-ftbuniversity.worldtpinfo.desc2=• &eBiome Bundle&r, which adds &6over 200 new biomes&r, and &6over 2000 new structures&r. This one is my personal favorite.
-ftbuniversity.worldtpinfo.desc3=• &eBiome Bundle o' Plenty&r is the same, but &6incorporates biomes from the mod Biomes o' Plenty&r, which are enabled by default in the normal overworld.
-ftbuniversity.worldtpinfo.desc4=• &eVanilla Vistas&r, which "&6overhauls terrain generation and biome placement using only vanilla biomes&r." Essentially, it makes regular biomes look better, as well as having a high amount of verticality.
-ftbuniversity.worldtpinfo.desc5=• &eVanilla Vistas Amplified&r is the same, but even &6taller&r.
+ftbuniversity.worldtpinfo.title=그것만이 내 세상
+ftbuniversity.worldtpinfo.subtitle=다양한 프리셋에 대해 알아보세요
+ftbuniversity.worldtpinfo.desc1=사용가능한 프리셋들:
+ftbuniversity.worldtpinfo.desc2=• &e바이옴 번들&r은 &6200개의 새로운 바이옴&r과 &62000개의 새로운 구조물들&r을 추가합니다. 이것은 개인적으로 제가 가장 좋아하는 프리셋입니다.
+ftbuniversity.worldtpinfo.desc3=• &e바이옴 번들 오 플렌티&r는 전 프리셋과 같지만, 일반 오버월드에서 기본적으로 활성화된 &6바이옴스 오 플랜티에서 추가한 바이옴들을 통합한&r  프리셋입니다.  
+ftbuniversity.worldtpinfo.desc4=• &e바닐라 경관&r은 "&6바닐라 바이옴만을 이용하여 세계 생성과 바이옴 배치를 정밀하게 조정하는 프리셋입니다.&r"  더불어, 이 프리셋은 바이옴의 수직성을 높이는 동시에 기본 바이옴을 보기 좋게 만듭니다.
+ftbuniversity.worldtpinfo.desc5=• &e증폭된 바닐라 경관&r은 위와 동일하지만, 말그대로 &6증폭&r되어 있습니다. 
 
-ftbuniversity.prefab1.title=What's an Early-Game?
-ftbuniversity.prefab1.subtitle=Enjoy your new furnishings
-ftbuniversity.prefab1.desc1=Since this pack is mostly about complex mods, why bother with the early-game grind?
-ftbuniversity.prefab1.desc2=Completely for free, we'll give you a choice of either a small &bStarting House&r or a larger &bModerate House&r. Simply use it on the ground to open a GUI, where you can &6decide the style and size&r of the house, then &6it'll instantly appear right there&r.
-ftbuniversity.prefab1.desc3=The Starter Houses are &6much smaller and more basic&r, while the Moderate Houses are &6much larger and more feature-filled&r.
-ftbuniversity.prefab1.desc4=Both options have a Bed, Crafting Bench, Furnace, empty farmland, and a mineshaft entrance.
-ftbuniversity.prefab1.rewards=Prefab houses
+ftbuniversity.prefab1.title=게임 초반에는?
+ftbuniversity.prefab1.subtitle=새로운 가구들을 즐겨보세요
+ftbuniversity.prefab1.desc1=이 모드팩은 대부분 복잡한 모드에 관한 건데, 왜 초반 게임에 신경 쓸 필요가 있을까요?
+ftbuniversity.prefab1.desc2=완전히 공짜로, 작은 &bStarting House&r와 큰 &bModerate House&r 중 하나를 드리기로 했습니다. 지면에 우클릭해 GUI를 열고, 원하는 집의 스타일과 크기를 고르면, 그 위치에 바로 집 형상이 나타날 것입니다.
+ftbuniversity.prefab1.desc3=Starter House들은 &b더 작고 기본적&r인 반면, Moderate House들은 &6더 크고 더 많은 기능&r이 포함되어 있습니다.
+ftbuniversity.prefab1.desc4=둘 다 기본적으로 침대, 제작대, 화로, 경작지, 광산 입구가 포함되어 있습니다.
+ftbuniversity.prefab1.rewards=조립식 집
 
-ftbuniversity.prefab2.title=Bonus Buildings
-ftbuniversity.prefab2.subtitle=Make your own Prefab
-ftbuniversity.prefab2.desc1=Prefab also comes with a bunch more buildings to plop down. These can be used to skip a bit more of the early game, if you really need to.
-ftbuniversity.prefab2.desc2=You can also search in JEI "&e@Prefab&r" to search for everything the mod adds.
-ftbuniversity.prefab2.task=Example Prefabs
+ftbuniversity.prefab2.title=보너스 건물
+ftbuniversity.prefab2.subtitle=원하는 조립식 건물을 만들어보세요
+ftbuniversity.prefab2.desc1=Prefab 모드에는 바로 설치 가능한 여러 다른 건물들도 있습니다. 필요하다면 게임 초반을 넘기는 데에 사용될 수 있습니다.
+ftbuniversity.prefab2.desc2=또한 JEI "&e@Prefab&r"으로 검색해 모드가 추가하는 모든 아이템을 찾아볼 수 있습니다.
+ftbuniversity.prefab2.task=예시 조립식 건물
 
-ftbuniversity.punchwood.title=I Lied to You, and I'm Sorry for That
-ftbuniversity.punchwood.subtitle=Punch some trees
-ftbuniversity.punchwood.desc1=I know I said I wouldn't ask you to punch down 16 trees, but you DO have to punch like, one or two trees.
-ftbuniversity.punchwood.desc2=Actually, just punch one. We have to have some quest here, and this is it. Sorry.
-ftbuniversity.punchwood.task=Any Log
+ftbuniversity.punchwood.title=I 암쏘쏘리 벗알러뷰 다거짓말
+ftbuniversity.punchwood.subtitle=나무를 캐세요
+ftbuniversity.punchwood.desc1=제가 뭐 나무 캐지 말라고 말이나 했습니까? 나무 16그루를 캐세요.
+ftbuniversity.punchwood.desc2=사실 원목 하나만 캐면 됩니다. 그래도 나무 캐는 퀘스트는 있어야죠? ㅎㅎ;; ㅈㅅ.. ㅋㅋ!!
+ftbuniversity.punchwood.task=아무 원목
 
-ftbuniversity.naturescompass.title=Location, Location, Location
-ftbuniversity.naturescompass.subtitle=Make a Nature's Compass
-ftbuniversity.naturescompass.desc1=Finding a nice spot to settle down is one of the most important parts of building a nice base. The &bNature's Compass&r will help you find a specific biome to live in.
-ftbuniversity.naturescompass.desc2=To select a biome, right-click the Nature's Compass and then find and click the biome out of the list. You can click &6Search&r to find the nearest instance of that biome or click &6Info&r to see information about that biome.
-ftbuniversity.naturescompass.desc3=OTG implements its biomes in a way different than normal, so &cNature's Compass will not be able to find OTG biomes&c.
+ftbuniversity.naturescompass.title=구해줘, 홈즈n
+ftbuniversity.naturescompass.subtitle=자연의 나침반(Nature's Compass)을 만드세요
+ftbuniversity.naturescompass.desc1=정착할 장소를 찾는 것은 멋진 기지를 건설하는 데 있어서 가장 중요한 부분 중 하나입니다. &b자연의 나침반&r이 특정한 바이옴을 찾는데 도움을 줄 거에요.
+ftbuniversity.naturescompass.desc2=바이옴을 선택하려면 자연의 나침반을 우클릭하고 목록에서 원하는 바이옴을 찾아 선택하세요. &6Search&r  버튼을 눌러 선택한 바이옴의 가장 가까운 죄표를 찾거나 &6Info&r 버튼을 눌러 해당 바이옴의 정보를 확인할 수 있습니다.
+ftbuniversity.naturescompass.desc3=OTG 모드는 다른 모드들과 다른 방식으로 바이옴을 생성하기 때문에 자연의 나침반으로는 OTG 모드의 바이옴을 찾을 수 없습니다.
 
-ftbuniversity.basicdrawers.title=Simple Storage
-ftbuniversity.basicdrawers.subtitle=Make any basic Drawer
-ftbuniversity.basicdrawers.desc1=&bStorage Drawers&r. You know em, you love em, you make em. &6Right-click items to store them, left-click to take them out.&r
-ftbuniversity.basicdrawers.desc2=A full size drawer can hold 64 stacks total, spread equally between its slots. Half-sized Drawers can store half as much.
-ftbuniversity.basicdrawers.task=Basic Drawers
+ftbuniversity.basicdrawers.title=간편한 저장공간
+ftbuniversity.basicdrawers.subtitle=아무 기본 서랍(Drawer)이나 만드세요.
+ftbuniversity.basicdrawers.desc1=&bStorage Drawers&r 모드. 당신도 좋아하는거 다 압니다. &6우클릭으로 아이템을 보관하고, 좌클릭으로 꺼내세요.&r
+ftbuniversity.basicdrawers.desc2=1x1 서랍은 총 64스택만큼의 아이템을 보관할 수 있고, 1x2 서랍은 기본 서랍의 절반만큼 아이템을 보관할 수 있습니다.
+ftbuniversity.basicdrawers.task=기본 서랍
 
-ftbuniversity.drawerstorageupgrade.title=Black Hole
-ftbuniversity.drawerstorageupgrade.subtitle=Make a Storage Upgrade
-ftbuniversity.drawerstorageupgrade.desc1=&bStorage Upgrades&r, as the name implies, allow you to increase a Drawer's maximum capacity. You can &6check the Upgrade's tooltip to see by how much&r.
-ftbuniversity.drawerstorageupgrade.desc2=You do not need a lower tier upgrade to use higher tiers. That means you could potentially install 7 tier 5 Upgrades to store 7168 stacks in one Drawer, 224 times the normal limit.
-ftbuniversity.drawerstorageupgrade.task=Storage Upgrades
+ftbuniversity.drawerstorageupgrade.title=블랙홀
+ftbuniversity.drawerstorageupgrade.subtitle=창고 업그레이드(Storage Upgrade)를 만드세요
+ftbuniversity.drawerstorageupgrade.desc1=이름에서 알 수 있듯이 &b창고 업그레이드&r를 사용하면 드로어의 최대 용량을 늘릴 수 있습니다. 업그레이드의 툴팁을 확인하여 얼마나 저장할 수 있는 지 확인할 수 있습니다.
+ftbuniversity.drawerstorageupgrade.desc2=상위 티어 업그레이드를 사용하기 위해 하위 티어 업그레이드가 필요하지 않습니다. 즉, 7티어 5 업그레이드를 설치하여 서랍 하나에 7168 스택을 저장할 수 있으며, 이는 정상적인 저장용량의 224배나 됩니다.
+ftbuniversity.drawerstorageupgrade.task=창고 업그레이드
 
-ftbuniversity.drawerkeys.title=Key, Please
-ftbuniversity.drawerkeys.subtitle=Make the various Keys
-ftbuniversity.drawerkeys.desc1=The &bDrawer Key&r will lock the Drawer it is clicked on, only allowing the items already in it to enter. That means if it get emptied, other items still can't fill it.
-ftbuniversity.drawerkeys.desc2=The &bConcealment Key&r will hide the contents of the Drawer it is clicked on, though it can still be interacted with.
-ftbuniversity.drawerkeys.desc3=The &bPersonal Key&r will block other players from interacting with the Drawer it is clicked on, though it can still be interacted with by machines.
-ftbuniversity.drawerkeys.desc4=The &bQuantify Key&r will make the Drawer it is clicked on show the amount of each item it has.
+ftbuniversity.drawerkeys.title=동무, 렬쇠내라우
+ftbuniversity.drawerkeys.subtitle=다양한 열쇠를 만드세요
+ftbuniversity.drawerkeys.desc1=&b서랍 열쇠(Drawer Key)&r는 클릭한 서랍을 이미 들어간 아이템만 들어가도록 잠급니다. 그 서랍이 비워지더라도, 다른 아이템은 들어가지 않습니다.
+ftbuniversity.drawerkeys.desc2=&b은폐 열쇠(Concealment Key)&r는 클릭한 서랍 내용물을 숨깁니다. 그래도 기계와는 상호작용이 가능합니다.
+ftbuniversity.drawerkeys.desc3=&b보안 열쇠(Personal Key)&r는 클릭된 서랍이 본인을 제외한 다른 플레이어들과 상호작용하는 것을 막지만, 여전히 기계들과는 상호작용 할 수 있습니다.
+ftbuniversity.drawerkeys.desc4=&b수량 열쇠(Quantify Key)&r는 클릭된 서랍에 저장된 아이템의 양을 보여주도록 만듭니다.
 
-ftbuniversity.compactdrawer.title=Squoze
-ftbuniversity.compactdrawer.subtitle=Make a Compacting Drawer
-ftbuniversity.compactdrawer.desc1=The &bCompacting Drawer&r will show 3 forms of the item you insert: the &6nugget&r form, the &6ingot&r form, and the &6block&r form.
-ftbuniversity.compactdrawer.desc2=It doesn't have to actually be a metal, it's just anything that has the same general crafting pattern. 
-ftbuniversity.compactdrawer.desc3=The maximum capacity is based off the top slot, so you can store up to 64 stacks of metal blocks at the top unupgraded, for instance.
-ftbuniversity.compactdrawer.task=Any Compacting Drawer
+ftbuniversity.compactdrawer.title=압축!
+ftbuniversity.compactdrawer.subtitle=압축 서랍을 만드세요
+ftbuniversity.compactdrawer.desc1=&b압축 서랍&r은 저장한 아이템의 조각, 주괴, 블록 형태를 보여줍니다.
+ftbuniversity.compactdrawer.desc2=저장되는 아이템이 꼭 금속이 아니더라도, 단지 비슷한 형태의 조합 패턴을 가지고 있기만 하면 잘 작동합니다.
+ftbuniversity.compactdrawer.desc3=저장 용량은 상단 슬롯을 기준으로 측정되므로, 아무 업그레이드도 적용하지 않았을 때 최대 64스택만큼의 금속 블록을 저장할 수 있습니다.
+ftbuniversity.compactdrawer.task=아무 압축 서랍
 
 ftbuniversity.drawercontroller.title=All in One
-ftbuniversity.drawercontroller.subtitle=Make a Drawer Controller
-ftbuniversity.drawercontroller.desc1=The &bDrawer Controller&r allows you to access all connected drawers within 12 blocks of itself. Machines and pipes will &6treat the Controller as a single inventory that has everything in all the connected Drawers&r.
-ftbuniversity.drawercontroller.desc2=&6Drawer Slaves&r will act as extensions of the Controller, allowing you to push and pull out of all connected Drawers. &6Trims&r have no inventory but will connect Drawers.
+ftbuniversity.drawercontroller.subtitle=드로워 컨트롤러(Drawer Controller)를 만드세요
+ftbuniversity.drawercontroller.desc1=&b드로워 컨트롤러&r를 사용하면 12블록 내에 연결된 모든 서랍에 액세스할 수 있습니다. 파이프로 연결된 모든 서랍에 저장된 모든 것을 포함하는 단일 인벤토리입니다.
+ftbuniversity.drawercontroller.desc2=&6드로워 슬레이브(Drawer Slaves)&r는 마치 제어기처럼 연결된 서랍에 접근할 수 있도록 해줍니다. 연결대(Trims)는 아이템을 저장하진 못하지만 다른 서랍들과 연결됩니다.
 
-ftbuniversity.frameddrawers.title=Drawer Incognito
-ftbuniversity.frameddrawers.subtitle=Make a Framing setup
-ftbuniversity.frameddrawers.desc1=The &bFraming Table&r allows you to set each part of a &bFramed Drawer&r to be a different texture.
-ftbuniversity.frameddrawers.desc2=Place the Framed Drawer into the far-left slot of the Table. Put any block into the &6top-left slot to set a base texture&r, the &6bottom slot to set the face texture&r, and the &6top-right slot to set an edge texture&r. You can see a preview on the right and in the world. 
-ftbuniversity.frameddrawers.task=Any Framed Drawer
+ftbuniversity.frameddrawers.title=-틀-
+ftbuniversity.frameddrawers.subtitle=틀 서랍을 만들어보세요
+ftbuniversity.frameddrawers.desc1=&b틀 서랍 제작대(Framing Table)&r에서 틀 서랍(Framed Drawer)의 각 파트에 서로 다른 텍스쳐를 입힐 수 있습니다.
+ftbuniversity.frameddrawers.desc2=틀 서랍을 제작대에 제일 왼쪽 슬롯에 놓으세요. 아무 블록이나 &6좌상단 슬롯에 놓아 서랍의 기본 텍스쳐&r를, &6좌하단 슬롯으로 정면 텍스쳐&r를, &6우상단 슬롯으로 테두리 텍스쳐&r를 설정하세요. 우측에서 제작될 서랍의 모습을 미리볼 수 있스
+ftbuniversity.frameddrawers.task=아무 틀 서랍
 
-ftbuniversity.claimchunk.title=This Quest Shamelessly Stolen from Academy
-ftbuniversity.claimchunk.subtitle=Claim a chunk
-ftbuniversity.claimchunk.desc1=At the top left of the inventory, &6click the map button to see a map&r of the surrounding chunks.
-ftbuniversity.claimchunk.desc2=You can &bleft-click a chunk to claim it&r for your team, so anyone from different teams will not be able to place or break blocks in your claimed chunks. Right-click to unclaim a chunk.
-ftbuniversity.claimchunk.desc3=You can &6click a claimed chunk while holding shift to chunkload it&r, which keeps everything in it running even if you're far away or offline.
+ftbuniversity.claimchunk.title=아카데미에 있던 퀘스트 베꼈노ㅋㅋ
+ftbuniversity.claimchunk.subtitle=청크 하나를 소유 설정하세요
+ftbuniversity.claimchunk.desc1=인벤토리 왼쪽 상단에 있는 &6지도 버튼을 클릭&r하여 주변 청크의 지도를 확인하세요.
+ftbuniversity.claimchunk.desc2=&6청크를 마우스 왼쪽 클릭&r해 여러분의 팀의 소유로 만들 수 있습니다. 소유한 청크에 다른 팀의 모든 사용자가 블록을 배치하거나 없앨 수 없습니다. 마우스 오른쪽  클릭하여 청크를 소유 해제합니다.
+ftbuniversity.claimchunk.desc3=&6쉬프트를 누른 상태에서 소유한 청크를 클릭&r하여 항상 청크로딩할 수 있으며, 멀리 있거나 오프라인 상태에서도 청크로딩됩니다.
 
 # So was this
-ftbuniversity.claimexplosions.title=AWW MAN
-ftbuniversity.claimexplosions.subtitle=Get a Creeper to explode in your claimed chunks
-ftbuniversity.claimexplosions.desc1=While in claimed chunks, &6explosions will be completely disabled&r. They can still deal damage to you, but they won't break any blocks. This applies to TNT as well.
-ftbuniversity.claimexplosions.desc2=This also prevents the Wither from damaging blocks with its explosions, but it does not stop it from breaking blocks around itself when taking damage.
+ftbuniversity.claimexplosions.title=크리퍼에게 복수를
+ftbuniversity.claimexplosions.subtitle=당신이 소유한 청크 내에서 크리퍼를 터뜨리세요
+ftbuniversity.claimexplosions.desc1=누군가에게 소유된 청크 내에서는, &6폭발은 완전히 비활성화됩니다&r. 여전히 피해를 입기는 하지만, 블록이 파괴되지는 않습니다. TNT에도 동일하게 적용됩니다.
+ftbuniversity.claimexplosions.desc2=위더의 폭발로 인한 블록 파괴도 막히지만, 위더가 블록에 끼었을 때 블록을 파괴하는 행위는 막지 못합니다.
 
-ftbuniversity.noticon.title=Other Brands Are Available
-ftbuniversity.noticon.subtitle=Use other mods, dingus
-ftbuniversity.noticon.desc1=&eTinkers' Construct&r is a mod that adds modular tools with resource-based enchantments. It's really cool, and really powerful... and also isn't in this pack.
-ftbuniversity.noticon.desc2=While Tinkers' &ois&r a very good mod... it can be considered a bit &cover-powered&r. We're leaving it out of University to encourage using tools from other mods instead.
-ftbuniversity.noticon.desc3=Though, the mod &eCrafting Station&r does add a &bCrafting Station&r that works pretty much exactly like TiCon's. That's a start, I guess.
+ftbuniversity.noticon.title=다른 모드도 좀 즐겨보세요
+ftbuniversity.noticon.subtitle=팅커스 삭제에 담긴 철학을 아시겠어요?
+ftbuniversity.noticon.desc1=&eTinkers' Construct &r은 여러 기능을 부여할 수 있는 자원 기반의 도구를 추가하는 모드입니다. 정말 멋지고, 정말 강력해요... 그리고 이 모드팩에는 없습니다ㅋㅋ
+ftbuniversity.noticon.desc2=팅커스 컨스트럭트에서 추가된 도구는 너무 OP에요... 다른 모드의 도구를 사용하도록 권장하기 위해 이 모드팩에서 제외할 것입니다.
+ftbuniversity.noticon.desc3=하지만, &eCrafting Station&r모드는 &b팅커스 모드의 작업대&r와 거의 똑같이 작동하는 작업대를 추가합니다. 이것부터 시작해 보세요.
 
-ftbuniversity.ftbultimine.title=Free-Range Veinminer
-ftbuniversity.ftbultimine.subtitle=Hold ` to mine entire veins
-ftbuniversity.ftbultimine.desc1=&eFTB Ultimine&r is a mod that allows you to mine all connected blocks at the same time by &6holding the ` button&r, to the left of the 1 key. It still uses durability and hunger, and you can only mine up to 128 blocks at once.
-ftbuniversity.ftbultimine.desc2=You can hold &6shift + ` and scroll&r to change the shape. 
+ftbuniversity.ftbultimine.title=성능좋은 베인마이너r
+ftbuniversity.ftbultimine.subtitle=` 를 누르면서 광맥을 채굴하세요(컨트롤 설정에 따라 단축키가 달라질 수 있습니다)
+ftbuniversity.ftbultimine.desc1=&eFTB Ultimine&r모드는 숫자 1번키 왼쪽에 있는 &l`&r 버튼을 누를 때 연결된 같은 블록들을 한 번에 부수게 하는 모드입니다. 이 기능은 여전히 내구도와 배고픔을 소모하며, 한번에 최대 128블록을 부술  수 있습니다.
+ftbuniversity.ftbultimine.desc2=&6쉬프트 + `과 스크롤&r로 채굴 모양을 변경할 수 있습니다.
 
-ftbuniversity.quarkbackpack.title=Packback
-ftbuniversity.quarkbackpack.subtitle=Buy a Backpack
-ftbuniversity.quarkbackpack.desc1=&bBackpacks&r, added by &eQuark Oddities&r, allow you to double your inventory space when worn in your chestplate slot.
-ftbuniversity.quarkbackpack.desc2=The backpack cannot be removed while any item is in the backpack slots.
-ftbuniversity.quarkbackpack.desc3=Notice how it doesn't have a "normal" crafting recipe; instead, you have to &6trade&r for it.
+ftbuniversity.quarkbackpack.title=가방
+ftbuniversity.quarkbackpack.subtitle=가방 하나를 구매하세요
+ftbuniversity.quarkbackpack.desc1=&eQuark Oddities&r모드에서 추가한 &b가방&r들은, 흉갑 슬롯에 착용했을 때 당신의 인벤토리 크기를 두배로 만들어 줍니다. 
+ftbuniversity.quarkbackpack.desc2=가방 안에 아이템이 들어있을 때는 가방을 벗을 수 없습니다.
+ftbuniversity.quarkbackpack.desc3=가방은 "일반적인" 제작법을 가지고 있지 않습니다. 대신, &6거래&r를 통해 얻어야합니다.
 
-ftbuniversity.simplevoid.title=We Are Officially a Skyblock Now
-ftbuniversity.simplevoid.subtitle=Make a Portal to the Void
-ftbuniversity.simplevoid.desc1=Right-click a &bPortal to the Void&r to be teleported to an entirely blank void dimension.
-ftbuniversity.simplevoid.desc2=The Void-side portal is at the exact same coordinates as the Overworld-side portal.
-ftbuniversity.simplevoid.desc3=There may be &6some jank&r if you use other means to teleport to/from the Void world, rather than the Portal block. 
+ftbuniversity.simplevoid.title=와! 스카이블록!
+ftbuniversity.simplevoid.subtitle=공허(void)로 가는 포탈을 만드세요
+ftbuniversity.simplevoid.desc1=&b공허 포탈&r을 우클릭하면 완전히 텅 빈 공허로 순간이동합니다.
+ftbuniversity.simplevoid.desc2=공허로 가는 포탈의 좌표는 오버월드로 가는 포탈의 좌표와 완전히 일치합니다.
+ftbuniversity.simplevoid.desc3=공허를 포탈을 통해서 가지 않고 다른 방법으로 순간이동 할 때 약간의 렉이 발생할 수 있습니다.
 
 # This is enchanting table language, leave it
 ftbuniversity.quarkenchant.title=ᑑ⚍ᔑ∷ꖌ ╎ᓭ ᔑ ᒲ𝙹↸ ʖ|| ⍊ᔑ⨅ꖌ╎╎
-ftbuniversity.quarkenchant.subtitle=Learn how to use matrix enchanting
-ftbuniversity.quarkenchant.desc1=&eQuark Oddities&r completely overhauls how the Enchantment Table works.
-ftbuniversity.quarkenchant.desc2=At the bottom, you can see the amount of levels required to create an &6enchantment shape&r. That will add that shape to the list on the right. Some enchantments might require you have over a specific amount of xp, even if it doesn't cost that much to actually make it. &6The more Bookshelves you have, the more shapes you can create&r.
-ftbuniversity.quarkenchant.desc3=Click an enchantment out of the list, and then place it anywhere in the 5x5 grid next to it (you can right-click while holding the shape to rotate it). That will apply that enchantment to the item. &6You can add as many enchantments as you have shapes, so long as they all fit together within the grid&r.
-ftbuniversity.quarkenchant.desc4=If you have multiple shapes of one enchantment, place them on top of each other to upgrade the level of that enchantment.
-ftbuniversity.quarkenchant.desc5=This can be disabled in the &6Mod Options...&r menu, searching and opening "Quark" (&nnot "Quark Oddities"&r), opening Oddities, then clicking the checkmark next to "Matrix Enchanting."
+ftbuniversity.quarkenchant.subtitle=매트릭스 인챈트 사용법을 배워봅시다
+ftbuniversity.quarkenchant.desc1=Quark Oddities는 마법 부여대의 작동 방식을 완전히 변경합니다.
+ftbuniversity.quarkenchant.desc2=하단에는 &6인챈트 조각&r을 생성할때 필요한 레벨의 양이 표시됩니다. +버튼을 눌러 오른쪽에 조각을 추가할 수 있습니다. 어떤 인챈트들은 실제로 그만큼의 경험치를 사용하지 않더라도 특정 이상의 경험치를 요구하기도 합니다. &6책장이 많을수록 더 많은 조각들을 만들어낼 수 있습니다.&r
+ftbuniversity.quarkenchant.desc3=목록에서 인챈트 조각을 가져와 바로 옆에 있는 5x5격자 위에 올려놓으세요(조각을 선택한채로 우클릭하면 조각을 회전할 수 있습니다). 이렇게 하면 해당 인챈트가 아이템에 부여됩니다. &6격자에 조각을 끼워넣을 수만 있다면 원하는만큼 인챈트를 부여할 수 있습니다.&rr.
+ftbuniversity.quarkenchant.desc4=만약 여러 조각의 동일한 인챈트가 있다면 다른 동일한 인챈트 조각 위에 올려놓음으로서 인챈트 레벨을 올릴 수 있습니다.
+ftbuniversity.quarkenchant.desc5=이 기능이 싫다면 &6모드 설정...&r 메뉴에서 "Quark" 모드를 검색해(&n"Quark Oddities"가 아닙니다&r) config 메뉴를 열고, Oddities 항목에 "Matrix Enchanting"을 비활성화하세요.
 
-ftbuniversity.exu2search.title=Legitimizing Soaryn Chests Since 2014
-ftbuniversity.exu2search.subtitle=Learn about ExU2's item locator
-ftbuniversity.exu2search.desc1=Extra Utilities 2 adds a keybind that lets you &bhover over any item in your inventory and hit T&r, and it will &6spawn particles in any nearby blocks that have that item&r.
-ftbuniversity.exu2search.desc2=This is incredibly useful for those that haven't done very much sorting in their base yet, as you can find what specific chest has a certain item.
+ftbuniversity.exu2search.title=아이템의 행방이 궁금할 땐?
+ftbuniversity.exu2search.subtitle=엑스트라 유틸리티 2의 아이템 찾는 단축키에 대해 알아봅시다
+ftbuniversity.exu2search.desc1=엑스트라 유틸리티 2는 &b인벤토리의 아무 아이템에 마우스를 대고 {keybind name}(기본 T키)&r를 누르면 &6해당 아이템이 저장된 근처 블록에 파티클이 생깁니다&r.
+ftbuniversity.exu2search.desc2=이는 특정 아이템이 어떤 상자에 들어있는지를 찾을 수 있기 때문에 아직 창고 정리를 덜 한 사람들에게 매우 유용합니다.
 
-ftbuniversity.ironchests.title=Bigger on the Inside
-ftbuniversity.ironchests.subtitle=Make an upgraded Chest
-ftbuniversity.ironchests.desc1=The mod &eIron Chests&r adds several tiers of Chests that have &6more storage space&r.
-ftbuniversity.ironchests.desc2=&bCopper&r has &645&r slots.
-ftbuniversity.ironchests.desc3=&bIron&r has &654&r slots.
-ftbuniversity.ironchests.desc4=&bSilver&r has &672&r slots.
-ftbuniversity.ironchests.desc5=&bGold&r has &681&r slots.
-ftbuniversity.ironchests.desc6=&bDiamond&r, &bCrystal&r, and &bObsidian&r all have &6108&r slots. Crystal is see-through, and Obsidian is blast-proof.
-ftbuniversity.ironchests.desc7=There are also &bChest Upgrades&r that can be used on a Chest to upgrade it, without having to break it.
-ftbuniversity.ironchests.desc8=Additionally, Shulkers can also be crafted into these advanced tiers.
-ftbuniversity.ironchests.task1=Chests
-ftbuniversity.ironchests.task2=Chest Upgrades
+ftbuniversity.ironchests.title=너무 커...♡
+ftbuniversity.ironchests.subtitle=향상된 상자를 만드세요
+ftbuniversity.ironchests.desc1=&eIron Chests모드&r는 많은 수납 공간을 지닌, 다양한 등급의 상자를  추가합니다.
+ftbuniversity.ironchests.desc2=구리 상자는 45개의 공간을 가지고 있습니다.
+ftbuniversity.ironchests.desc3=철 상자는 54개의 공간을 가지고 있습니다.
+ftbuniversity.ironchests.desc4=은 상자는 72개의 공간을 가지고 있습니다.
+ftbuniversity.ironchests.desc5=금 상자는 81개의 공간을 가지고 있습니다.
+ftbuniversity.ironchests.desc6=다이아몬드, 크리스탈, 흑요석 상자는 모두 108개의 공간을 가지고 있습니다. 또한 크리스탈 상자는 안에 있는 아이템을 볼 수 있고, 흑요석 상자는 폭발 방지 기능을 가지고 있습니다.
+ftbuniversity.ironchests.desc7=상자 업그레이드를 사용하면 상자를 부수지 않고도 상자를 업그레이드할 수 있습니다.
+ftbuniversity.ironchests.desc8=부가적으로, 기존 설커 상자들도 상위 등급으로 조합될 수 있습니다.
+ftbuniversity.ironchests.task1=상자
+ftbuniversity.ironchests.task2=상자 업그레이드
 
 ftbuniversity.yabba.title=YABBA DABBA DOO
-ftbuniversity.yabba.subtitle=Make an Item Barrel
-ftbuniversity.yabba.desc1=&bItem Barrels&r from the mod &eYABBA&r work fairly similarly to &eStorage Drawers&r' Storage Drawers. They can &6store a massive amount of a single item&r. Right-click an item to insert it, left-click to extract.
-ftbuniversity.yabba.desc2=Item Barrels have &6lower raw storage capability&r (fully upgraded, holding 4096 stacks compared to Storage Drawers' 7168), but has &6more unique upgrades&r, and having &6better aesthetic abilities&r.
-ftbuniversity.yabba.desc3=Sneak right-click an Item Barrel to open its settings. There, you can toggle if it's locked, if it requires you to sneak to see its contents, and if it should show a progress bar instead of exact amounts.
-ftbuniversity.yabba.desc4=Barrels keep their contents when broken.
+ftbuniversity.yabba.subtitle=아이템 통(Item Barrel)을 만드세요
+ftbuniversity.yabba.desc1=&eYABBA&r 모드의 &b아이템 통&r은 &eStorage Drawer&r모드의 서랍들과 매우 비슷하게 작동합니다. 단일 종류의 아이템을 대량으로 보관할 수 있습니다. 우클릭으로 아이템을 보관하고 좌클릭으로 꺼내세요.
+ftbuniversity.yabba.desc2=아이템 통은 &6더 적은 기본 저장 용량&r을 가지고 있지만(완전히 업그레이드 되었을 때 아이템 통은4096스택만큼, Storage Drawer의 서랍은 7168스택만큼의 아이템을 저장할 수 있습니다), 더&6독특한 업그레이드&r들이 있고 더욱 &6미적&r입니다.
+ftbuniversity.yabba.desc3=아이템 통을 웅크린채로 우클릭해 설정창을 열 수 있습니다. 여기에서 아이템 잠금여부, 통을 바라볼때만 추가정보를 표시할건지, 정확한 수량 대신 진행 바를 표시할건지 등을 설정할 수 있습니다.
+ftbuniversity.yabba.desc4=또한 통은 부서졌을때 내용물을 유지합니다.
 
-ftbuniversity.ibconn.title=Barrel Controller
-ftbuniversity.ibconn.subtitle=Make an Item Barrel Connector
-ftbuniversity.ibconn.desc1=The &bItem Barrel Connector&r provides &6access to all connected Item Barrels&r.
-ftbuniversity.ibconn.desc2=This &6only works for pipes&r and the like; &cyou can't use it manually&r. It's GUI simply allows you to see the stored items and their amounts.
+ftbuniversity.ibconn.title=통 제어기
+ftbuniversity.ibconn.subtitle=아이템 통 연결단자(Item Barrel Connector)를 만드세요
+ftbuniversity.ibconn.desc1=&b아이템 통 연결단자&r를 사용해 &6모든 연결된 통을 제어&r할 수 있습니다. 
+ftbuniversity.ibconn.desc2=이는 &6오직 파이프 등&r에만 작동합니다. &c일반적으로 당신은 사용할 수 없습니다&r. 우클릭하면 연결된 통에 어떤 아이템이 얼마나 저장되어 있는지 확인할 수 있습니다.
 
 ftbuniversity.antibarrel.title=Unstackables
 ftbuniversity.antibarrel.subtitle=Make an AntiBarrel
